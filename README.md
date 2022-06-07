@@ -3,7 +3,7 @@
 Python's framework to build APIs.
 
 
-Insalling server and fastapi:
+Insalling server and FastAPI:
 ```
 pipenv install fastapi uvicorn
 ```
